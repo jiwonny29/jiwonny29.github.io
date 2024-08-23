@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL
+#### Technical Skills: Python, SQL, R 
 
 ## Education					       		
 - M.S., Data Science	| Duke University (_Expected May 2024_)	 			        		
