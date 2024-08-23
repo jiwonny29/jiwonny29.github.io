@@ -4,7 +4,7 @@
 
 ## Education					       		
 - M.S., Data Science	| Duke University (_Expected May 2024_)	 			        		
-- B.S., Consumer Economics | Sookmyung Women's University (_Feb 2016_)
+- B.A., Consumer Economics | Sookmyung Women's University (_Feb 2016_)
 
 ## Work Experience
 **Data Science Graduate Research Assistant @ Duke University School of Medicine (_May 2024 - Present_)**
@@ -31,7 +31,22 @@ Used Ridge and GBM regression to predict future cardiovascular mortality rates f
 
 Achieved a top 5% ranking in a Machine Learning Competition for African roof image classification by using R-CNN, YOLO v3, and YOLO v8 models on an imbalanced dataset of 4,772 training and 2,045 test images, and improved model performance to a mean absolute error (MAE) of 0.408 through strategic experimental designs, including image rebalancing and data augmentation
 
+### Improved Yu-Gi-Oh Card Image Generation and Captioning via Archetype Segmentation
+
+Implemented and fine-tuned image generation models (GAN, Stable Diffusion) and an image captioning model (GIT) using +10K Yu-Gi-Oh! card images, obtained via their API and web scraping text data. Improved evaluation metrics (FID and BLEU scores) by 6% and enhanced image quality through segmenting and isolating archetypes, while optimizing hyperparameters such as epochs and learning rates
+
 ### Fashion Industry Social Media Marketing Virality's Causal Effects on Customer Engagement
 
 Analyzed one year of Instagram data from 20+ US fashion companies, using various time windows for viral posts, square-root and Z-score data transformations, and matched companies by follower count and post frequency
 
+### YouTube Channel Revenue Forecasting and Earnings Prediction 			
+
+Forecasted YouTube channel revenue and evaluated the probability of channels earning over $1 million annually by applying multiple linear and logistic regression models to 2023 global YouTube Channel data, and increased the R-squared score from 0.09 to 0.32 by identifying key revenue factors: views per subscriber, country, and number of uploads
+
+### Development of Text-Based Song Recommendation Web Application using Azure Databricks
+
+Developed a text-based mood-based song recommendation Streamlit web application using a data engineering pipeline (Azure Databricks) integrating Spotify and OpenAI GPT-3 API in a cloud-based environment, Azure App Services. Conducted load tests with 10,000 requests to monitor response time and ensure robust performance of the web microservice, even under heavy user load, to maintain stability
+
+### Sentiment Analysis on Real E-commerce Customer Review Data on Amazon and eBay
+
+Performed sentiment analysis using Multinomial Naive Bayes with TF-IDF and Bag-of-Words models, along with a Bidirectional LSTM model, on real online customer review data from Amazon and Ebay, totaling over 95,000 cases. Achieved over 96% accuracy on a synthetic test dataset after hyperparameter tuning and compared their contextual awareness in handling challenges.
