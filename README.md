@@ -30,10 +30,13 @@ Used Ridge and GBM regression to predict future cardiovascular mortality rates f
 ### African Roof Image Classification for Disaster Rescue in Zindi Machine Learning Competition
 
 Achieved a top 5% ranking in a Machine Learning Competition for African roof image classification by using R-CNN, YOLO v3, and YOLO v8 models on an imbalanced dataset of 4,772 training and 2,045 test images, and improved model performance to a mean absolute error (MAE) of 0.408 through strategic experimental designs, including image rebalancing and data augmentation
+![val_yolo](https://github.com/user-attachments/assets/b9da9a3d-c2dc-4910-aa5d-1e9179466123)
 
 ### Improved Yu-Gi-Oh Card Image Generation and Captioning via Archetype Segmentation
 
 Implemented and fine-tuned image generation models (GAN, Stable Diffusion) and an image captioning model (GIT) using +10K Yu-Gi-Oh! card images, obtained via their API and web scraping text data. Improved evaluation metrics (FID and BLEU scores) by 6% and enhanced image quality through segmenting and isolating archetypes, while optimizing hyperparameters such as epochs and learning rates
+![output2](https://github.com/user-attachments/assets/1964a59b-f7e4-4880-abeb-c006f42d96d7)
+![image](https://github.com/user-attachments/assets/21793134-5b0b-4c92-89fa-453fba7b0844)
 
 ### Fashion Industry Social Media Marketing Virality's Causal Effects on Customer Engagement
 
@@ -46,6 +49,7 @@ Forecasted YouTube channel revenue and evaluated the probability of channels ear
 ### Development of Text-Based Song Recommendation Web Application using Azure Databricks
 
 Developed a text-based mood-based song recommendation Streamlit web application using a data engineering pipeline (Azure Databricks) integrating Spotify and OpenAI GPT-3 API in a cloud-based environment, Azure App Services. Conducted load tests with 10,000 requests to monitor response time and ensure robust performance of the web microservice, even under heavy user load, to maintain stability
+![diagram](https://github.com/user-attachments/assets/b7754721-d8c7-456f-a761-2412e3f86849)
 
 ### Sentiment Analysis on Real E-commerce Customer Review Data on Amazon and eBay
 
